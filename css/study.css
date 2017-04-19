@@ -1,0 +1,51 @@
+
+#banner{
+  margin: 0;
+  padding: 0,
+  width: 100%;
+  height: 200px;
+  background: url('../img/banner/bgbanner.jpg') no-repeat;
+  background-size: 100% auto;
+}
+.fa-envelope{
+  color: #8834c3;
+}
+header{
+  overflow: hidden;
+  background-color: rgb(236, 232, 146);
+}
+#logo{
+  width: 216px;
+  height: 163px;
+  background: url('../img/photo/banlogo.png') no-repeat;
+  float: left;
+}
+#nav>ol>li{
+  width: 180px;
+  height: 30px;
+  float: left;
+  font-size: 20px;
+  font-family: "微軟正黑體";
+}
+#document{
+  max-width: 1000px;
+  margin: auto;
+}
+#nav{
+  float:right;
+  margin-top: 110px;
+}
+.left{
+width: 500px;
+float: left;
+}
+.right{
+  width: 500px;
+  float: left;
+}
+
+footer{
+  line-height: 20px;
+
+background-color: rgb(236, 232, 146);
+}
